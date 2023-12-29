@@ -70,10 +70,16 @@
 }
 
 .u-section-1 .u-layout-cell-1 {
+  text-align: center;
   min-height: 134px;
 }
 
+.u-container-layout-2 {
+  text-align: center;
+}
+
 .u-section-1 .u-container-layout-2 {
+  text-align: center;
   padding: 30px 0;
 }
 
@@ -173,6 +179,7 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
+    text-align: center;
     min-height: 100px;
   }
 
@@ -378,6 +385,7 @@
 }
 
 .u-section-2 .u-layout-cell-1 {
+  text-align: center;
   min-height: 400px;
 }
 
@@ -401,6 +409,7 @@
 }
 
 .u-section-2 .u-container-layout-2 {
+  text-align: center;
   padding: 30px;
 }
 
@@ -430,6 +439,7 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
+    text-align: center;
     min-height: 330px;
   }
 
@@ -458,6 +468,7 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
+    text-align: center;
     min-height: 253px;
   }
 
@@ -483,6 +494,7 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
+    text-align: center;
     min-height: 380px;
   }
 
@@ -492,6 +504,7 @@
   }
 
   .u-section-2 .u-container-layout-2 {
+    text-align: center;
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -508,6 +521,7 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
+    text-align: center;
     min-height: 239px;
   }
 } .u-section-3 {
@@ -521,6 +535,7 @@
 }
 
 .u-section-3 .u-layout-cell-1 {
+  text-align: center;
   min-height: 400px;
 }
 
@@ -540,6 +555,7 @@
 }
 
 .u-section-3 .u-container-layout-2 {
+  text-align: center;
   padding: 25px 30px;
 }
 
@@ -571,6 +587,7 @@
   }
 
   .u-section-3 .u-layout-cell-1 {
+    text-align: center;
     min-height: 330px;
   }
 
@@ -602,6 +619,7 @@
   }
 
   .u-section-3 .u-layout-cell-1 {
+    text-align: center;
     min-height: 100px;
   }
 
@@ -645,6 +663,7 @@
   }
 
   .u-section-3 .u-container-layout-2 {
+    text-align: center;
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -678,6 +697,7 @@
 }
 
 .u-section-4 .u-layout-cell-1 {
+  text-align: center;
   min-height: 400px;
 }
 
@@ -701,6 +721,7 @@
 }
 
 .u-section-4 .u-container-layout-2 {
+  text-align: center;
   padding: 30px;
 }
 
@@ -730,6 +751,7 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
+    text-align: center;
     min-height: 330px;
   }
 
@@ -758,6 +780,7 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
+    text-align: center;
     min-height: 253px;
   }
 
@@ -783,6 +806,7 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
+    text-align: center;
     min-height: 380px;
   }
 
@@ -792,6 +816,7 @@
   }
 
   .u-section-4 .u-container-layout-2 {
+    text-align: center;
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -808,6 +833,7 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
+    text-align: center;
     min-height: 239px;
   }
 } .u-section-5 {
@@ -821,6 +847,7 @@
 }
 
 .u-section-5 .u-layout-cell-1 {
+  text-align: center;
   min-height: 400px;
 }
 
@@ -840,6 +867,7 @@
 }
 
 .u-section-5 .u-container-layout-2 {
+  text-align: center;
   padding: 25px 30px;
 }
 
@@ -871,6 +899,7 @@
   }
 
   .u-section-5 .u-layout-cell-1 {
+    text-align: center;
     min-height: 330px;
   }
 
@@ -902,6 +931,7 @@
   }
 
   .u-section-5 .u-layout-cell-1 {
+    text-align: center;
     min-height: 100px;
   }
 
@@ -978,6 +1008,7 @@
 }
 
 .u-section-6 .u-layout-cell-1 {
+  text-align: center;
   min-height: 400px;
 }
 
@@ -1030,6 +1061,7 @@
   }
 
   .u-section-6 .u-layout-cell-1 {
+    text-align: center;
     min-height: 330px;
   }
 
@@ -1058,6 +1090,7 @@
   }
 
   .u-section-6 .u-layout-cell-1 {
+    text-align: center;
     min-height: 253px;
   }
 
@@ -1083,6 +1116,7 @@
   }
 
   .u-section-6 .u-layout-cell-1 {
+    text-align: center;
     min-height: 380px;
   }
 
@@ -1108,6 +1142,7 @@
   }
 
   .u-section-6 .u-layout-cell-1 {
+    text-align: center;
     min-height: 239px;
   }
 } .u-section-7 {
@@ -1121,6 +1156,7 @@
 }
 
 .u-section-7 .u-layout-cell-1 {
+  text-align: center;
   min-height: 400px;
 }
 
@@ -1173,6 +1209,7 @@
   }
 
   .u-section-7 .u-layout-cell-1 {
+    text-align: center;
     min-height: 330px;
   }
 
@@ -1202,6 +1239,7 @@
   }
 
   .u-section-7 .u-layout-cell-1 {
+    text-align: center;
     min-height: 100px;
   }
 
@@ -1273,6 +1311,7 @@
 }
 
 .u-section-8 .u-layout-cell-1 {
+  text-align: center;
   min-height: 400px;
 }
 
@@ -1325,6 +1364,7 @@
   }
 
   .u-section-8 .u-layout-cell-1 {
+    text-align: center;
     min-height: 330px;
   }
 
@@ -1353,6 +1393,7 @@
   }
 
   .u-section-8 .u-layout-cell-1 {
+    text-align: center;
     min-height: 253px;
   }
 
@@ -1378,6 +1419,7 @@
   }
 
   .u-section-8 .u-layout-cell-1 {
+    text-align: center;
     min-height: 380px;
   }
 
@@ -1403,6 +1445,7 @@
   }
 
   .u-section-8 .u-layout-cell-1 {
+    text-align: center;
     min-height: 239px;
   }
 }
@@ -12700,6 +12743,7 @@ section.u-image:not(.u-hover-box),
 .u-layout-col,
 .u-layout-row {
   flex: 1 1 auto;
+  justify-content: center;
 }
 .u-layout-row > * {
   max-height: 100%;
@@ -12721,6 +12765,7 @@ section.u-image:not(.u-hover-box),
   flex-wrap: wrap;
   min-height: -webkit-fit-content;
   min-height: fit-content;
+  justify-content: center;
   max-width: 100%;
 }
 .u-layout-cell {
